@@ -1,4 +1,4 @@
-## Saudações! Eu sou Acácio Miranda!
+## Saudações, eu sou Acácio Miranda!
 🎓 Formado em Comunicação Social (Jornalismo e Publicidade e Propaganda)<p>
 ⚽ MBA em Gestão Esportiva <p>
 🧑‍💼 Atualmente trabalho com Marketing e Publicidade na área de Educação.<p>
