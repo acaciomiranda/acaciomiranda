@@ -1,9 +1,9 @@
-## Olá, eu sou Acácio Miranda!
+## Saudações! Eu sou Acácio Miranda!
 🎓 Formado em Comunicação Social (Jornalismo e Publicidade e Propaganda)<p>
 ⚽ MBA em Gestão Esportiva <p>
 🧑‍💼 Atualmente trabalho com Marketing e Publicidade na área de Educação.<p>
 
-Iniciei meus estudos na área de desenvolvimento, incluindo Programação, Estatística, Análise de Dados. Participo do Hiring Coders #3 2022.<p>
+Iniciei meus estudos na área de desenvolvimento, incluindo: Programação e Análise de Dados. Atualmente participo da jornada Hiring Coders #3 2022, promovido pela VTEX IO em parceria com a Gama Academy - https://www.hiringcoders.com.br/ .<p>
 
 <div align="center">
   <a href="https://github.com/acaciomiranda">
