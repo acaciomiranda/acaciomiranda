@@ -5,10 +5,11 @@
 
 Iniciei meus estudos na área de desenvolvimento, incluindo: Programação e Análise de Dados. Atualmente participo da jornada Hiring Coders #3 2022, promovido pela VTEX IO em parceria com a Gama Academy - https://www.hiringcoders.com.br/ .<p>
 
-<div align="center">
-  <a href="https://github.com/acaciomiranda">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=acaciomiranda&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
- </div>
+<div>
+<a href="https://github.com/acaciomiranda">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=acaciomiranda&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=acaciomiranda&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
   
   ### Linguagens em Desenvolvimento:
   <div style="display: inline_block"><br>
